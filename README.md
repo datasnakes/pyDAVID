@@ -35,7 +35,7 @@ pyDAVID directory.
 ## Author
 
 Shaurita Hutchins · [@sdhutchins](https://github.com/sdhutchins)
-    · [sdhutchins@uab.edu](mailto:sdhutchins@uab.edu)
+    · [shaurita.d.hutchins@gmail.com](mailto:shaurita.d.hutchins@gmail.com)
 
 ## Contributing
 
